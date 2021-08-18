@@ -1,3 +1,0 @@
-/home/rachit/Git_repos/OpenCV_CPP/DisplayImage/CMakeFiles/rebuild_cache.dir
-/home/rachit/Git_repos/OpenCV_CPP/DisplayImage/CMakeFiles/edit_cache.dir
-/home/rachit/Git_repos/OpenCV_CPP/DisplayImage/CMakeFiles/DisplayImage.dir
